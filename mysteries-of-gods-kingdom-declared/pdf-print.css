@@ -1,0 +1,4 @@
+/* prevent awkward page break */
+.first-chapter h2 {
+  margin-top: 140pt;
+}
