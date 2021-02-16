@@ -1,9 +1,4 @@
-
-== Memoirs ofFrancis Howgillwith Extracts from His Writings
-
-by James Backhouse
-
-=== Preface.
+== Preface.
 
 The following work is chiefly compiled from the writings of Francis Howgill,
 which were collected after his death, and published in the year 1676 in one volume folio,
@@ -40,7 +35,7 @@ may tend to stir up others to diligence, in the most important object of life,
 which is righteousness; that so they may know its work which is peace;
 and may prove its effect to be quietness and assurance forever.
 
-=== Chapter I.
+== Chapter I.
 
 A Short Sketch of Francis Howgill`'s Life;
 with an Extract from His Own Account of His Early Religious Experience.
@@ -325,7 +320,7 @@ and lay down in the fold of God, with the lambs of God,
 where the sons of God rejoice together, and the saints keep holy days.
 Glory unto Him forever!`"
 
-=== Chapter II.
+== Chapter II.
 
 An account of Francis Howgill`'s Convincement,
 by the Preaching of George Fox--His Imprisonment with James Nayler.
@@ -552,7 +547,7 @@ and went to many steeple-houses,
 to warn both priests and people of the day of the Lord that was coming upon them;
 directing them to Christ Jesus, their Teacher and Saviour.
 
-=== Chapter III.
+== Chapter III.
 
 Francis Howgill Visits London in Company with Edward Burrough and Anthony Pearson--Account
 of the First Meetings of Friends in London--They Are Joined by John Audland,
@@ -735,7 +730,7 @@ which they endeavoured to recommend and propagate;
 a religion not amusing the head in curious speculations, but purifying the heart,
 and cleansing the conscience from dead works, to serve the Lord in newness of life.
 
-=== Chapter IV.
+== Chapter IV.
 
 Francis Howgill and Edward Burrough visit Bristol--Are examined by the magistrates,
 and discharged--After which a warrant is issued to apprehend them and others as Franciscans
@@ -915,7 +910,7 @@ who desired them to go to their house, where they had a large meeting,
 and stayed two days; after which, they set out for London:
 the justice kindly sending his man and horses with them, fifteen miles on their journey.
 
-=== Chapter V.
+== Chapter V.
 
 Francis Howgill and Edward Burrough return to London--Several meetings
 established--Francis visits Oliver Cromwell in company with John Camm;
@@ -1076,7 +1071,7 @@ and two others to Oxford;
 and many others to preach the Gospel to the congregations they had formerly belonged to:
 and they were yet preserved at liberty.
 
-=== Chapter VI.
+== Chapter VI.
 
 Francis Howgill visits Kent--Returns to London--Goes to Ireland,
 and joins Edward Burrough--They are banished from Ireland by Henry Cromwell
@@ -1147,7 +1142,7 @@ till they were shipped off.
 The soldiers were kind to them, and suffered them to have meetings where they came;
 so that several received the Truth.
 
-=== Chapter VII.
+== Chapter VII.
 
 Francis Howgill and Edward Burrough meet at Bristol Fair--Return to London, where,
 after going again into the country, Francis is imprisoned with many others,
@@ -1401,7 +1396,7 @@ whose power is almighty, great in his people in the midst of his enemies.^
 footnote:[For a further account of Edward Burrough, see Tuke`'s Biographical Notices, vol.
 8.]
 
-=== Chapter VIII.
+== Chapter VIII.
 
 Francis Howgill is summoned before the justices of the peace at Hernial,
 and committed to Appleby jail.--Is recommitted for refusing to
@@ -1475,7 +1470,7 @@ Since the time of Burns, the ruins which "`owls and jackdaws`" had long inhabite
 have been removed;
 and a farm house has recently been erected upon the site of the old hall.
 
-=== Chapter IX.
+== Chapter IX.
 
 An account of Francis Howgill`'s examination, trial,
 and sentence to imprisonment for life.
@@ -1936,7 +1931,7 @@ was not supported by the act of parliament,
 and was afterwards clearly proved in the case of George Fox,
 before judges Hales and Wile; see Richard Davie`'s Journal, sixth edition, page 102-107.
 
-=== Chapter X.
+== Chapter X.
 
 Francis Howgill`'s imprisonment--He is engaged in writing in support of
 the principles of Truth--An account of his last illness and death
@@ -2051,7 +2046,7 @@ from the later part of the 5th month, 1663.
 His solicitude as a Christian parent,
 is remarkably exemplified in the following address to his daughter.
 
-=== Chapter XI.
+== Chapter XI.
 
 Francis Howgill`'s advice to his daughter.
 
@@ -2269,9 +2264,7 @@ Francis Howgill.
 
 26th of the 5th month, 1666.
 
-== Part the Second
-
-=== Chapter I.
+== Chapter XII.
 
 An abridgement of an essay entitled "`Some of the Mysteries of God`'s Kingdom Declared.`" etc.
 
@@ -3277,7 +3270,7 @@ with the glory He had with the Father before the world began:
 for whosoever comes to enjoy the kingdom of glory, which fades not away,
 is eternally happy.
 
-=== Chapter II.
+== Chapter XIII.
 
 Abridged Selections from a Work Entitled:
 "`The Glory of the True Church Discovered,`" etc.
@@ -4323,7 +4316,7 @@ which is from above.
 These sayings are faithful and true; and blessed is he that hears, believes,
 and receives them.
 
-=== Chapter III.
+== Chapter XIV.
 
 Extracts from Francis Howgill`'s Epistles
 
