@@ -1,7 +1,8 @@
 == Chapter II.
 
-An account of Francis Howgill`'s Convincement,
-by the Preaching of George Fox--His Imprisonment with James Nayler.
+[.chapter-synopsis]
+* An account of Francis Howgill`'s Convincement, by the Preaching of George Fox
+* His Imprisonment with James Nayler
 
 It appears that the great change just alluded to, took place in Francis Howgill`'s mind,
 in the year 1652.
@@ -30,6 +31,8 @@ The following account of the remarkable meeting, at which, Francis Howgill, John
 John Camm, Richard Hubberthome, and many others were convinced of the everlasting truth,
 is extracted from George Fox`'s journal, page 68.
 
+[quote]
+____
 The next First-day, I came to Firbank chapel, in Westmoreland,
 where Francis Howgill and John Audland, had been preaching in the morning.
 The chapel was full of people, so that many could not get in.
@@ -89,6 +92,7 @@ the Lord`'s convincing power accompanied my ministry,
 and reached home to the hearts of the people;
 whereby all the teachers of that congregation, who were many,
 and also a number of the people, were convinced of God`'s everlasting truth.
+____
 
 In a testimony respecting Francis Howgill, by George Fox, he states him to have been,
 "`one of the Lord`'s worthies, that preached His everlasting word of life,
@@ -112,7 +116,7 @@ preached Christ Jesus freely, as they had received Him, and turned many to God.`
 But, "`no sooner was his mouth opened, than the priests, magistrates, and professors,
 began to rage against him, and to be offended at the word of God, and the gospel.`"
 
-Francis Howgill was one of the friends alluded to, in H. Tuke`'s Biographical Notices,
+Francis Howgill was one of the friends alluded to, in [.book-title]#H. Tuke`'s Biographical Notices,#
 vol.
 2 page 69, who with James Nayler, designed to have held a religious meeting, at Orton,
 in Westmoreland, in the year 1652.
@@ -212,10 +216,10 @@ two other justices were so violent as to commit him upon the petition of the pri
 though at the hazard of being fined by the judges at the court session.
 It was therefore ordered that James Nayler and Francis Howgill should remain in prison,
 where they were arbitrarily confined about five months and then discharged.`"^
-footnote:[For particulars of James Nayler`'s life, see Sewell`'s History of Friends,
-Tuke`'s Biographical Notices, vol. 2. page 67 to 92,
+footnote:[For particulars of James Nayler`'s life, see [.book-title]#Sewell`'s History of Friends,#
+[.book-title]#Tuke`'s Biographical Notices,# vol. 2. page 67 to 92,
 and a refutation of some of the more modern misrepresentations of the Society of Friends,
-commonly called Quakers, with A Life of James Nayler, by Joseph Gurney Bevan.]
+commonly called Quakers, with [.book-title]#A Life of James Nayler,# by Joseph Gurney Bevan.]
 
 After Francis Howgill was set at liberty,
 he grew valiant and bold for the name of the Lord;
