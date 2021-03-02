@@ -1,10 +1,11 @@
 == Chapter V.
 
-Francis Howgill and Edward Burrough return to London--Several meetings
-established--Francis visits Oliver Cromwell in company with John Camm;
-and afterwards writes to him--He joins Edward Burrough
-in Suffolk--They go to James Parnel at Cambridge,
-and visit the Isle of Ely and Norfolk--Return to London.
+[.chapter-synopsis]
+* Francis Howgill and Edward Burrough return to London
+* Several meetings established* Francis visits Oliver Cromwell in company with John Camm; and afterwards writes to him
+* He joins Edward Burrough in Suffolk
+* They go to James Parnel at Cambridge, and visit the Isle of Ely and Norfolk
+* Return to London
 
 On the return of Francis Howgill and Edward Burrough to London,
 they saw the fruit of their labour in that city, and rejoiced:
@@ -39,6 +40,10 @@ In a letter to Margaret Fell on this occasion, Francis says of the Protector:
 but hardens his heart and acts secretly underneath.`"
 Soon after this visit he addressed the following letter to Cromwell:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friend,
 
 I was moved of the Lord to come to thee, to declare the Word of the Lord,
@@ -94,7 +99,9 @@ I will visit for these things, saith the Lord;
 and I will break the yoke from off their necks, and I will bring deliverance another way,
 and thou shalt know that I am the Lord.
 
-William Sewell, in his History of the People Called Quakers,
+--
+
+William Sewell, in his [.book-title]#History of the People Called Quakers,#
 says in reference to this letter: "`How this was received I am not acquainted;
 but this I have understood, that some of Cromwell`'s servants,
 and amongst these one Theophilus Green, and also Mary, afterwards wife of Henry Stout,

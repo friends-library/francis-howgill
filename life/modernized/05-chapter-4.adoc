@@ -1,7 +1,9 @@
 == Chapter IV.
 
-Francis Howgill and Edward Burrough visit Bristol--Are examined by the magistrates,
-and discharged--After which a warrant is issued to apprehend them and others as Franciscans
+[.chapter-synopsis]
+* Francis Howgill and Edward Burrough visit Bristol
+* Are examined by the magistrates, and discharged
+* After which a warrant is issued to apprehend them and others as Franciscans
 
 In the autumn of this year, 1654,
 Francis Howgill and Edward Burrough left London for Bristol,
@@ -125,8 +127,13 @@ was thought too low to be pressed into service against them,
 by many of those who ought to have been a terror to evil doers,
 and a praise to them who do well.
 
-City Of Bristol.
+[.embedded-content-document.legal]
+--
 
+[.signed-section-context-open]
+City of Bristol.
+
+[.salutation]
 To the constables of the peace of the ward of +++_______+++, and every of them.
 
 Forasmuch as information has been given unto us upon oath,
@@ -149,8 +156,11 @@ to be dealt with according to law.
 Hereof fail not.
 Given the 25th of January, 1654.
 
+[.signed-section-signature]
 Signed, John Gunning, Mayor, Gabriel Sherman, William Gunn, Henry Gibbs, Joseph Jackson,
 George Hellier, John Lack, Gabriel Sherman, Richard Vickris.
+
+--
 
 While Francis Howgill and Edward Burrough were in Bristol,
 twelve Baptists came out of Wiltshire to encounter them, who were put to flight;
