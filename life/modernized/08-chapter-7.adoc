@@ -1,11 +1,10 @@
 == Chapter VII.
 
-Francis Howgill and Edward Burrough meet at Bristol Fair--Return to London, where,
-after going again into the country, Francis is imprisoned with many others,
-on the false charge of insurrection--Being liberated,
-he travels into various parts of the nation.
-About this time he writes an account of what he foresaw respecting Friends--And,
-at Reading, writes a Testimony concerning Edward Burrough.
+[.chapter-synopsis]
+* Francis Howgill and Edward Burrough meet at Bristol Fair
+* Return to London, where, after going again into the country, Francis is imprisoned with many others, on the false charge of insurrection
+* Being liberated, he travels into various parts of the nation. About this time he writes an account of what he foresaw respecting Friends
+* And, at Reading, writes a Testimony concerning Edward Burrough
 
 After returning from Ireland, Francis Howgill and Edward Burrough separating for a while,
 went through many counties of England, holding numerous meetings,
@@ -69,7 +68,11 @@ although in unsearchable wisdom He saw fit before that time,
 to permit many of his humble followers to seal their testimony with their lives,
 in close prisons, and under severe bodily privations.
 
-The paper given forth by Francis Howgill.
+[.embedded-content-document.paper]
+--
+
+[.blurb]
+=== The paper given forth by Francis Howgill.
 
 The cogitations of my heart have been many, deep, and ponderous some months, weeks,
 and days,
@@ -123,7 +126,10 @@ no strength was left in me for a while; but at last my heart was filled with joy
 even as David`'s, when the ark of God was brought from the house of Obed-Edom,
 when David danced before it, and Israel shouted for joy.
 
+[.signed-section-signature]
 Francis Howgill.
+
+--
 
 In the 12th month, 1662, he was at Reading, in Berkshire,
 where he wrote a Testimony concerning the life, death, trials, travels,
@@ -136,6 +142,9 @@ by which liberty from the bondage of sin is obtained,
 and salvation received through Jesus Christ, the true Light of the world.
 
 The following pathetic lamentation over Edward Burrough, is extracted from the Testimony.
+
+[.embedded-content-document.testimony]
+--
 
 Shall days, or months, or years wear out your name, as though you had no being?
 O no!
@@ -249,5 +258,7 @@ And your life shall enter into others, to testify unto the same Truth,
 which is from everlasting to everlasting; for God has raised,
 and shall raise up children unto Abraham of them that have been as dead stones,
 whose power is almighty, great in his people in the midst of his enemies.^
-footnote:[For a further account of Edward Burrough, see Tuke`'s Biographical Notices, vol.
+footnote:[For a further account of Edward Burrough, see [.book-title]#Tuke`'s Biographical Notices,# vol.
 8.]
+
+--
