@@ -131,7 +131,7 @@ and a praise to them who do well.
 --
 
 [.signed-section-context-open]
-City Of Bristol.
+City of Bristol.
 
 [.salutation]
 To the constables of the peace of the ward of +++_______+++, and every of them.
