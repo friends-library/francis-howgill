@@ -131,10 +131,10 @@ and a praise to them who do well.
 --
 
 [.signed-section-context-open]
-City Of Bristol.
+City of Bristol.
 
-[.blurb]
-=== To the constables of the peace of the ward of +++_______+++, and every of them.
+[.salutation]
+To the constables of the peace of the ward of +++_______+++, and every of them.
 
 Forasmuch as information hath been given unto us upon oath,
 that certain persons of the Franciscan order in Home,
