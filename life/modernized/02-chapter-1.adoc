@@ -1,7 +1,8 @@
 == Chapter I.
 
-A Short Sketch of Francis Howgill`'s Life;
-with an Extract from His Own Account of His Early Religious Experience.
+[.chapter-synopsis]
+* A Short Sketch of Francis Howgill`'s Life
+* An Extract from His Own Account of His Early Religious Experience
 
 Francis Howgill was born about the year 1618; and his residence was at Todthorne,
 near Grayrigg, in Westmoreland.
@@ -23,7 +24,10 @@ He has left a particular account of his early religious experience, in a work en
 "`The Inheritance of Jacob discovered after his return out of Egypt;`"
 from which the reader is here presented with a copious extract.
 
-"`From twelve years old I set my heart to know that God whom the world professed,
+[.embedded-content-document]
+--
+
+From twelve years old I set my heart to know that God whom the world professed,
 and whom I read of in the Scriptures; whom Abraham, Noah, Moses, the Prophets,
 and the rest of the Fathers worshiped:
 and I fell into the strictest worship that was in that part wherein I lived;
@@ -48,13 +52,13 @@ but when I yielded not I was glad and had peace.
 And then I began to oppose my fellows, with whom I had walked in wantonness;
 and they began to revile me, and hate me, and scorn me; yet I mattered it not.
 
-"`Then I read much, and prayed in words, often three or four times in a day,
+Then I read much, and prayed in words, often three or four times in a day,
 yet knew not where God was, but imagined a God at a distance; and so went on.
 Then I began to grow in knowledge without, which is sensual; and I was puffed up,
 for the world admired me: but still I was condemned for vain words and actions;
 and the root of iniquity grew in me.
 
-"`Then I followed a more strict course,
+Then I followed a more strict course,
 often went five or six miles to hear some more excellent means, as they called it,
 and so got more words; but still I was the same, no worse, for knowledge puffed me up.
 Then about fifteen years of age I posted up and down after the most excellent sermons;
@@ -83,7 +87,7 @@ and they judged me a worthy communicant;
 and in great fear I was lest I should eat unworthily;
 and none could instruct me what the body of Christ was.
 
-"`At one time I read all the Scriptures that spoke of Christ`'s sufferings.
+At one time I read all the Scriptures that spoke of Christ`'s sufferings.
 The teachers said I must believe He suffered for me;
 and I believed all that they called faith; yet I could not see how He died for me,
 and had taken away my sin; for the witness in my conscience told me,
@@ -100,7 +104,7 @@ Then they said, I had not come prepared;
 and yet I had all the preparation that they had spoken of:
 but they were all physicians of no value.
 
-"`Then I fasted, and prayed, and walked mournfully in sorrow,
+Then I fasted, and prayed, and walked mournfully in sorrow,
 and thought none was like me, tempted on every hand: so I ran to this man, and the other;
 and they applied promises to me; but it was only in words,
 for the witness of Christ showed me that the root of iniquity stood,
@@ -108,13 +112,13 @@ and that the body of sin was whole: and, notwithstanding I was kept from gross e
 still sorrow compassed me about, and I questioned all that ever I had had,
 which they said was grace, repentance, and faith.
 
-"`Then I told them there was guilt in me; and they said sin was taken away by Christ,
+Then I told them there was guilt in me; and they said sin was taken away by Christ,
 but the guilt should still remain while I lived,
 and brought me the saints`' conditions who were in the warfare, to confirm it.
 So I said in myself this was a miserable salvation,
 that the guilt and condemnation of sin should still stand in me.
 
-"`Thus I was tossed from mountain to hill, and heard them preach confusion;
+Thus I was tossed from mountain to hill, and heard them preach confusion;
 and therefore I mattered not for them, and said,
 surely this is not the ministry of Christ!
 So I ceased long by fits, and did not mind them;
@@ -134,7 +138,7 @@ but that there was an evangelical obedience.
 So I got above fear, and yet acted the former things, which they called ordinances;
 and they said that was son-like obedience, and Christ had done all.
 
-"`Then there appeared more beauty in those called Independents; and I loved them,
+Then there appeared more beauty in those called Independents; and I loved them,
 and so joined myself to them: and all the money I could get I purchased books with;
 and I walked with and owned the Independents as more separate from the world;
 and they pressed separation: but at the last I saw it was only in words,
@@ -143,7 +147,7 @@ and so made an image and fell down and worshiped it.
 Yet there was some tenderness in them at the first;
 but the doctrine was the same with the world`'s, words without, of others conditions.
 
-"`Then they whom they called Anabaptists appeared to have more glory,
+Then they whom they called Anabaptists appeared to have more glory,
 and to walk more according to the Scripture, observing things written without:
 and I went among them; and there was something I loved among them.
 But afterwards, they denied all but such as came into their way,
@@ -155,7 +159,7 @@ But still all said the letter was the word and rule; and Christ at a distance, w
 had done all.
 Some of them holding free-will, others opposing, and all in their own will.
 
-"`Still I loved them that walked honestly among all these.
+Still I loved them that walked honestly among all these.
 But though I had seen and owned all that I had heard, except the figure,
 which I saw was outward; and that was their greatest glory,
 and I saw that they would have all fall down to it, else no communion;
@@ -169,7 +173,7 @@ But still wheresoever I went, this was spoken in me:
 "`His servant you are whom you obey;`" and so being overcome by sin,
 I had no justification witnessed in me, but condemnation.
 
-"`Then some preached Christ within, but they themselves were without; but yet they said,
+Then some preached Christ within, but they themselves were without; but yet they said,
 all must be within, unto which my soul did cleave.
 And they spoke of redemption and justification, and all within;
 and of God appearing in man, and overcoming the power of the devil:
@@ -182,11 +186,11 @@ and persecute one another: and I always took part with the sufferer.
 But still I saw, that though they spoke of things within, and of a power to come,
 they enjoyed not what they spoke of; for the same fruits were brought forth.
 
-"`At last I saw, that none walked as the ministers of Christ:
+At last I saw, that none walked as the ministers of Christ:
 none that pretended to the ministry had any such gift, neither pastor, nor teacher;
 nor were any of them such members as were in the apostles`' time.
 
-"`So having passed up and down, hurried here and there,
+So having passed up and down, hurried here and there,
 I saw that all the teachers of the world sought themselves,
 and fed poor people with dead names and deceit;
 and that they were not the ministers of Christ.
@@ -194,14 +198,14 @@ I saw them all in deceit, who did not abide in Christ`'s doctrine;
 and I got myself quit of most of them, for, ever as I dissented from their judgment,
 they hated and persecuted me.
 
-"`Now it was revealed in me, that the Lord would teach his people himself: so I waited,
+Now it was revealed in me, that the Lord would teach his people himself: so I waited,
 and many things opened in me of a time at hand.
 And sometimes I would have heard a priest; but when I heard him, I was moved by the Lord,
 and his word in me spoke to oppose: and often as a fire it burned,
 and a trembling fell upon me; yet I feared reproach, and so denied the Lord`'s motion.
 And it was revealed in me to wait, and I should know his counsel.
 
-"`And the word of the Lord was in me, that the time was at hand,
+And the word of the Lord was in me, that the time was at hand,
 when the dead should hear the voice of the Son of God.
 And it burned in me as a fire, that the day was near, when it should not be said,
 "`lo here, nor there;`" but all the Lord`'s people should be taught of Him.
@@ -223,7 +227,7 @@ For I was overthrown, and my foundation swept away;
 and all my righteousness and unrighteousness were judged, and weighed,
 and found too light.
 
-"`As soon as I heard one declare, that the Light of Christ in man, is the way to Christ,
+As soon as I heard one declare, that the Light of Christ in man, is the way to Christ,
 I believed the eternal word of truth; and the light of God in my conscience sealed to it.
 So not only I, but many hundreds more, who thirsted after the Lord,
 but were betrayed by the wisdom of the serpent, were all seen to be off the foundation;
@@ -231,7 +235,7 @@ and all our mouths were stopped in the dust; and we all stood condemned in ourse
 and saw our nakedness, and were ashamed;
 though our glory was great in the eye of the world: but all was vanity.
 
-"`As I turned my mind within, to the light of Jesus Christ, with which I was enlightened,
+As I turned my mind within, to the light of Jesus Christ, with which I was enlightened,
 which formerly reproved me for all vanity,
 and also as I owned it led me into all righteousness,
 I saw it was the true and faithful witness of Christ Jesus; and then my eyes were opened;
@@ -275,10 +279,12 @@ Then I received the perfect gift, which was given from God:
 and the holy law of God was revealed unto me; and was written in my heart: and His fear,
 and His word, which did kill, now made alive.
 
-"`Thus it pleased the Father to reveal his Son in me through death;
+Thus it pleased the Father to reveal his Son in me through death;
 and so I came to witness cleansing by his blood, which is eternal.
 Glory unto his name tor ever!
 And I have rest and peace in doing the will of God; and am entered into the true rest,
 and lay down in the fold of God, with the lambs of God,
 where the sons of God rejoice together, and the saints keep holy days.
-Glory unto Him forever!`"
+Glory unto Him forever!
+
+--

@@ -2,8 +2,8 @@
 
 The following work is chiefly compiled from the writings of Francis Howgill,
 which were collected after his death, and published in the year 1676 in one volume folio,
-containing 736 pages, and entitled The Dawnings of the Gospel day,
-and Its Light and Glory Discovered, etc.
+containing 736 pages, and entitled [.book-title]#The Dawnings of the Gospel day,
+and Its Light and Glory Discovered, etc.#
 
 The first part, comprising the life of Francis Howgill,
 has however received many additions from writings of some others of the Society of Friends,
