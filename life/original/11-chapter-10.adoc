@@ -1,7 +1,9 @@
 == Chapter X.
 
-Francis Howgill`'s imprisonment--He is engaged in writing in support of
-the principles of Truth--An account of his last illness and death
+[.chapter-synopsis]
+* Francis Howgill`'s imprisonment
+* He is engaged in writing in support of the principles of Truth
+* An account of his last illness and death
 
 Francis Howgill bore his imprisonment with great patience, and evinced so much meekness,
 resignation, and love,
@@ -61,7 +63,7 @@ whereby the violence of their hands was taken off.^
 footnote:[From history it appears, that soon after the passing of the act of banishment,
 the English nation was permitted to involve itself in war with Holland, France,
 and Denmark.
-And in a work entitled Posthuma Christiana, by William Crouch, he says,
+And in a work entitled [.book-title]#Posthuma Christiana,# by William Crouch, he says,
 in reference to this act, and the subsequent proceedings upon it:
 "`It was not long before the Lord was pleased to manifest His displeasure,
 and to put a stop to these unnatural, unrighteous, and inhuman actions,
