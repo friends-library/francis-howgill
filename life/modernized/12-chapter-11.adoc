@@ -1,9 +1,10 @@
 == Chapter XI.
 
-Francis Howgill`'s advice to his daughter.
+[.chapter-synopsis]
+* Francis Howgill`'s advice to his daughter
 
-The Unchangeable Testament, and Will, and Counsel of Francis Howgill,
-Left to His Daughter Abigail Howgill.
+[.blurb]
+=== The Unchangeable Testament, and Will, and Counsel of Francis Howgill, Left to His Daughter Abigail Howgill.
 
 Daughter Abigail,--This is for you to observe, and keep,
 and take heed unto all the clays of your life,
@@ -59,7 +60,7 @@ the Lord gave me a resolution and strength not to be troubled, neither offended;
 because He did support me.
 
 At that time were you born; and therefore I called your name Abigail; which signifies,
-the father`'s joy or delight; for in you I was comforted;
+_the father`'s joy or delight;_ for in you I was comforted;
 and my present trouble mitigated.
 
 My counsel unto you is, that you remember your Creator in the days of your youth,
@@ -210,8 +211,11 @@ and in the life to come.
 These things I give you in charge to observe, as my Mind, and Will, and Counsel,
 unalterable unto you; in witness whereof I have set my hand.
 
+[.signed-section-closing]
 Your dear father,
 
+[.signed-section-signature]
 Francis Howgill.
 
+[.signed-section-context-close]
 26th of the 5th month, 1666.
