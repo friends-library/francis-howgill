@@ -1,7 +1,9 @@
 == Chapter XII.
 
-An abridgement of an essay entitled "`Some of the Mysteries of God`'s Kingdom Declared.`" etc.
+[.blurb]
+=== An abridgement of an essay entitled "`Some of the Mysteries of God`'s Kingdom Declared.`" etc.
 
+[.centered]
 === To The Reader.
 
 In times past, in the night of ignorance, since the days of the apostles,
@@ -29,11 +31,11 @@ But by that of God in you, I desire to be approved, and by nothing else.
 
 I am your friend in Truth, and wish good to all men.
 
+[.signed-section-signature]
 Francis Howgill.
 
-=== Section I.
-
-Some of the Mysteries of God`'s Kingdom Declared.
+[.old-style]
+=== Section I. / Some of the Mysteries of God`'s Kingdom Declared.
 
 The Lord God of the whole earth, who lives forever, even the God of Abraham,
 the God of Isaac, and the God of Jacob; whose throne is established in righteousness,
@@ -83,9 +85,8 @@ and the Sun of Righteousness has shined,
 whereby that which is reprovable and condemnable in every one is seen,
 and that also which is justifiable and unreprovable.
 
-=== Section II.
-
-What the Day of the Lord Is, How It Is Seen, and to Whom It Has Appeared.
+[.old-style]
+=== Section II. / What the Day of the Lord Is, How It Is Seen, and to Whom It Has Appeared.
 
 God is a spirit, his day is spiritual, and is seen with a spiritual eye:
 it is pure light, pure brightness,
@@ -128,9 +129,8 @@ does this therefore make their sight void,
 who have seen into the things of God`'s kingdom?
 The unbelief of some does not make the faith of them that do believe void: God forbid.
 
-=== Section III.
-
-What the Day of the Lord Is, and What It Will Be to the Wicked.
+[.old-style]
+=== Section III. / What the Day of the Lord Is, and What It Will Be to the Wicked.
 
 Though the day of the Lord is pure light and brightness,
 and mixes not with the night which is of a contrary nature;
@@ -177,10 +177,8 @@ when God sounds his trumpet, to give warning to all, that the dead,
 both small and great may arise, "`some unto everlasting life,
 and some to shame and everlasting contempt.`"
 
-=== Section IV.
-
-What the Day of the Lord Is to the Righteous, and How It Appears to Them,
-and Whether Any Are to Look for it While in the Body.
+[.old-style]
+=== Section IV. / What the Day of the Lord Is to the Righteous, and How It Appears to Them, and Whether Any Are to Look for it While in the Body.
 
 The appearance of God, who is eternal life, in his day, in his immeasurable Light,
 is a great joy and rejoicing to the righteous:
@@ -246,9 +244,8 @@ are not yet come to know the appearance of the glimmering
 of light or of the day in themselves,
 which the saints witness in themselves, even all them that are sanctified.
 
-=== Section V.
-
-Where the Day of the Lord Appears, How It Comes, and How It Is to Be Looked For.
+[.old-style]
+=== Section V. / Where the Day of the Lord Appears, How It Comes, and How It Is to Be Looked For.
 
 They that gaze abroad cannot see the Lord`'s appearance, nor his day.
 He that knows not wherein it consists, knows not how to look for it,
@@ -314,10 +311,8 @@ and their understandings being closed up, they cannot behold the Lord, neither h
 which is revealed only by God`'s Holy Spirit; which Spirit is near man,
 though he see it not.
 
-=== Section VI.
-
-What the Spirit of the Lord, Which Discovers the Things of God Is,
-and How It Comes to Be Received.
+[.old-style]
+=== Section VI. / What the Spirit of the Lord, Which Discovers the Things of God Is, and How It Comes to Be Received.
 
 The Spirit of the Lord is one with the Father, and the Son; (the Father, Word,
 and Spirit, are one;) it is life, purity, holiness, power, and strength;
@@ -368,9 +363,8 @@ Thus, in some measure, he feels in himself what to wait upon, where, and in what
 which is in that which gives every one a feeling of his own condition within,
 and opens his understanding.
 
-=== Section VII.
-
-How the Spirit of Truth Operates in Those Who Are Convinced, and Yet Have Not Obeyed.
+[.old-style]
+=== Section VII. / How the Spirit of Truth Operates in Those Who Are Convinced, and Yet Have Not Obeyed.
 
 Though God, has appeared by the manifestation of his Spirit to all,
 yet all have not received his Spirit: the evil-doer has not received it;
@@ -418,11 +412,8 @@ which appearance, lives in the Fountain of Life;
 and though it be crucified by those who are out of the Life,
 nevertheless lives forever in itself to be their condemnation eternally.
 
-=== Section VIII.
-
-How the Spirit of the Father Works in Those Who Are Turned to It,
-and Have Taken Heed to Its Manifestations, and Are, in Some Measure,
-Partakers of Its Power.
+[.old-style]
+=== Section VIII. / How the Spirit of the Father Works in Those Who Are Turned to It, and Have Taken Heed to Its Manifestations, and Are, in Some Measure, Partakers of Its Power.
 
 "`There are diversities of gifts, but the same Spirit;
 there are differences of administrations, but the same Lord;
@@ -509,10 +500,8 @@ and as wrath and condemnation were revealed through the Spirit,
 so now the peace of God is enjoyed, and his consolation shed abroad largely by it;
 in which there is pure rejoicing forever.
 
-=== Section IX.
-
-To Whom the Spirit Bears Witness and Seals Assurance of the Father`'s Love;
-and of Justification with God
+[.old-style]
+=== Section IX. / To Whom the Spirit Bears Witness and Seals Assurance of the Father`'s Love; and of Justification with God
 
 None have the witness of God`'s Spirit, bearing witness to them and in them,
 who have not believed in Christ "`the true Light,
@@ -593,10 +582,8 @@ and so he is kept alive unto Him who has brought him to life,
 and has given him to drink of the cup of salvation; which nourishes up,
 unto eternal life, all those who continue in the faith.
 
-=== Section X.
-
-What the Free Grace of God Is; How Far It Is a Sufficient Teacher;
-to Whom It Has Appeared, and Where All Are to Wait to Receive It.
+[.old-style]
+=== Section X. / What the Free Grace of God Is; How Far It Is a Sufficient Teacher; to Whom It Has Appeared, and Where All Are to Wait to Receive It.
 
 The Grace of God is his free gift; it is the appearance of Christ;
 it is that through which God makes known his will, and by which He teaches us.
@@ -650,10 +637,8 @@ because we have the witness of our faith in ourselves,
 which gives pure and perfect feeling of the operation of the Spirit of the Lord;
 which saves all them that believe in it out of sin, and gives them dominion over it.
 
-=== Section XI.
-
-Whether There Be a Distinction in Grace or Not--It Is Not Separate
-From Christ--An Exhortation to Those Who Long For His Appearing, etc.
+[.old-style]
+=== Section XI. / Whether There Be a Distinction in Grace or Not--It Is Not Separate From Christ--An Exhortation to Those Who Long For His Appearing, etc.
 
 Peoples`' minds have been confounded by distinctions made
 by those whose wisdom is below the wisdom of God;
@@ -671,14 +656,21 @@ yet after many years profession,
 I was made to go back again to that which was called common and insufficient,
 before I found favour with the Lord, or felt his living power again.
 
-The First they ground upon the letter where it is said:
+[.numbered-group]
+====
+
+[.numbered]
+_The First_ they ground upon the letter where it is said:
 "`He causes the sun to rise on the evil and on the good;
 and sends rain on the just and on the unjust`" and "`In Him we live and
 move and have our being;`" and they say by this we discover gross sins.
 
-The Second, which they call special, they say,
+[.numbered]
+_The Second,_ which they call special, they say,
 is that by which the saints are saved and established in righteousness,
 and receive remission of sins.
+
+====
 
 Now He who causes the sun to rise, and the rain to fall;
 and gives health and strength to all things in the outward and visible creation,
@@ -715,7 +707,7 @@ When I speak of the sufficiency of Grace, and say that it is a sufficient Teache
 I do not speak of it as distinct from Christ;^
 footnote:[Nor as distinct from the Spirit, see Sect.
 vi. vii.
-Editor.]
+_Editor._]
 nor as of a thing separate from the Power of God,
 but as one with it and with Him from which it comes: for as He is salvation itself,
 so the grace of God by which He manifests Himself, and his salvation,
@@ -814,12 +806,8 @@ which testimony I commend to that of God in every man;
 and that will bear me witness in the day of God, when all hearts shall be opened,
 and all falsehood and truth be made manifest.
 
-=== Section XII.
-
-A Word To The Wise Men Of This World, Who Are Glorying In The Sound Of Words,
-And Are Worshiping Outward Appearances--And To All Literal Professors Who Think To Search
-Into The Deep Things Of God--And To Worship God Aright By Their Natural Wisdom,
-Learning, Parts And Study
+[.old-style]
+=== Section XII. / A Word To The Wise Men Of This World, Who Are Glorying In The Sound Of Words, And Are Worshiping Outward Appearances--And To All Literal Professors Who Think To Search Into The Deep Things Of God--And To Worship God Aright By Their Natural Wisdom, Learning, Parts And Study
 
 God is shedding abroad his power and glory,
 and making it to flow forth to his little ones,
@@ -912,9 +900,8 @@ who has enlightened you, that you may feel His mind in yourselves;
 or you will still err for lack of knowledge, and perish for lack of understanding,
 and so lay down your heads in sorrow.
 
-=== Section XIII.
-
-The Kingdom of God And Christ Declared.
+[.old-style]
+=== Section XIII. / The Kingdom of God And Christ Declared.
 
 The Lord has prepared his throne in the heavens; and his kingdom rules over all.
 His dominion, is an everlasting dominion; He is a spirit; his kingdom is spiritual:

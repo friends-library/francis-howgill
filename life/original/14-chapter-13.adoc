@@ -1,8 +1,9 @@
 == Chapter XIII.
 
-Abridged Selections from a Work Entitled:
-"`The Glory of the True Church Discovered,`" etc.
+[.blurb]
+=== Abridged Selections from a Work Entitled: "`The Glory of the True Church Discovered,`" etc.
 
+[.centered]
 === To the Reader.
 
 God, in his great wisdom, has in all ages manifested his will to his servants; and,
@@ -82,12 +83,11 @@ Read with meekness, and in that which is spiritual in thyself,
 through which the things of God are made manifest; for with that I have unity: and,
 as thou livest and walkest in it, I bid thee farewell.
 
+[.signed-section-signature]
 Francis Howgill.
 
-=== Section I.
-
-The State of the True Church, from the Manifestation of Christ in the Flesh,
-to the End of the Apostle`'s Days, Briefly Discovered
+[.old-style]
+=== Section I. / The State of the True Church, from the Manifestation of Christ in the Flesh, to the End of the Apostle`'s Days, Briefly Discovered
 
 God, according to his determinate will and everlasting counsel, in the fulness of time,
 sent his only begotten Son into the world, to be the Light of the world,
@@ -173,10 +173,8 @@ and there was no complaint;
 but their care was not to make the Gospel of Christ burdensome or chargeable,
 but rather that their hands should minister unto their necessities. Acts 18:3.
 
-=== Section II.
-
-Of the Entering in of the Apostacy, and Declensions from Purity of Doctrine, Worship,
-and Practice, from That Time to the Present Time.
+[.old-style]
+=== Section II. / Of the Entering in of the Apostacy, and Declensions from Purity of Doctrine, Worship, and Practice, from That Time to the Present Time.
 
 Christ said: "`Beware of false prophets which come to you in sheep`'s clothing;
 but inwardly they are ravening wolves:
@@ -257,23 +255,30 @@ and call me the holy church; so I shall be clear?`"
 Thus it is clear that the church of Rome is in the apostacy;
 and this is also evident by her practices for
 
-First.
+[.numbered-group]
+====
+
+[.numbered]
+_First._
 Her ministers are not in accordance with the ministers of Christ, in the primitive times;
 their call is not such, neither their practice.
 The ministers of Christ were made ministers by the Holy Ghost;
 but hers are made by human ordination and study, etc.
 
-Secondly.
+[.numbered]
+_Secondly._
 The ministers of Christ preached the Gospel freely;
 but she has brought in tithes from Judaism for the maintenance of her priests;
 and has also invented oblations, obventions, and mortuaries to maintain her ministers by.
 
-Thirdly.
+[.numbered]
+_Thirdly._
 The ministers of Christ did not compel any by force to maintain them,
 whether they received their doctrine or not; but she compels all wherever she has power,
 making what she calls the Gospel chargeable.
 
-Fourthly.
+[.numbered]
+_Fourthly._
 Her unbloody sacrifice of the mass is of no benefit at all;
 for where no shedding of blood is, there is no remission.
 Heb. 9:22; therefore her sacrifice is abominable, and an idol.^
@@ -292,7 +297,8 @@ than the One which God hath set forth, which is Christ: Rom. 3:25.
 by whom alone we have access to the Father. John 14:6.
 ]
 
-Fifthly.
+[.numbered]
+_Fifthly._
 Her liturgy and prayers in a tongue unknown to the
 congregations is an unprofitable and vain worship,
 and contrary to the words of the Apostle Paul who said: "`I thank my God,
@@ -301,14 +307,16 @@ yet in the Church I had rather speak five words with my understanding,
 that by my voice I might teach others also,
 than ten thousand words in an unknown tongue, 1 Cor. 14:18-19.
 
-Sixthly.
+[.numbered]
+_Sixthly._
 Her doctrine of a purgatory to cleanse from sin is an invented and imaginary thing,
 and contrary to the primitive doctrine,
 that "`the blood of Christ cleanseth from all sin;`" 1 John
 1:7. And her distinction of mortal and venial sin,
 tends only to blind people; for "`the wages of sin is death.`" Rom. 6:23.
 
-Seventhly.
+[.numbered]
+_Seventhly._
 The worshiping and invocation of angels and saints, as mediators betwixt us and God,
 is contrary to the primitive doctrine: "`There is one mediator between God and man,
 the man Christ Jesus,`" 1 Tim. 2:5;
@@ -316,7 +324,8 @@ and He alone makes intercession for all them that believe.
 The angel reproved John when he would have worshiped him, saying: "`See thou do it not;
 for I am thy fellow servant,`" etc. Rev. 22:8.
 
-Eighthly.
+[.numbered]
+_Eighthly._
 Her relics and images are contrary to what the Lord commanded by the prophets:
 "`Ye shall make you no idols nor graven image, neither rear you up a standing image;
 neither shall ye set up any image of stone in your land, to bow down to it.`" Lev. 26:1.
@@ -332,10 +341,13 @@ keep yourselves from idols,`" 1 John 5:81. is quite
 opposed to the practice of venerating relics,
 by imagining them to possess any supernatural virtue, and of bowing down to them.]
 
-Ninthly.
+[.numbered]
+_Ninthly._
 The practices of commanding to abstain from meats on certain days,
 and of forbidding any to marry,
 are enumerated amongst the "`doctrines of devils "`by the apostle Paul, 1 Tim. 4:1,3.
+
+====
 
 There are also many other things which might be enumerated,
 which are found in the church of Rome, and which are proofs of her apostacy;
@@ -344,9 +356,8 @@ in the bread and wine after the consecration by the priests;
 her observation of particular days dedicated to particular saints,
 the sale of pardons and indulgences, etc. etc.
 
-=== Section III.
-
-=== On Separation from the Church of Rome.
+[.old-style]
+=== Section III. / On Separation from the Church of Rome.
 
 Now Christ being the Head of the true Church,
 who ought to rule by his spiritual sceptre in the hearts and consciences of people,
@@ -368,6 +379,7 @@ and using certain forms of prayer on certain days, and in many other things;
 a brief history of the introduction of some of which,
 amongst those who profess to be Christians, here follows.
 
+[.blurb]
 === On Fasts, Feasts, and Holy-day.
 
 The Jews, in the first covenant, had many fasts, feasts, and holy days; as the sabbath,
@@ -422,6 +434,7 @@ Telesphorus appointed that Lent should be kept before Easter,
 and added another week to it, which is called Quinquegesima;
 and in this week he commanded the priests to fast more than the laity.
 
+[.blurb]
 === Of Those Called Parish Churches, and Church Yards
 
 Parish churches,
@@ -460,6 +473,7 @@ is it not because there are so many officers in and about it, who are greedy of 
 so that they would not miss any thing that might be commodious to them;
 and so would compel all to come there for their gain?
 
+[.blurb]
 === On Ecclesiastical Titles and Tithes.
 
 Since the apostacy entered in, and the power of godliness began to be denied,
@@ -612,6 +626,7 @@ and that indeed they were never due in the Second Covenant,
 Christ having put an end to the first priesthood,
 with all its shadows and carnal ordinances.
 
+[.blurb]
 === On Psalms, Matins, Litany, and Mass.
 
 The Jews had many officers which belonged to the temple worship,
@@ -699,15 +714,14 @@ where many have taken up their habitations;
 and Babylon`'s merchants have traded these many hundreds of years,
 with such like merchandise, under the name of apostolic ordinances and holy institutions.
 
-=== On Swearing.^
-footnote:[Some of the observations under this head
-are extracted from a work of Francis Howgill`'s,
-entitled, Oaths No Gospel Ordinance.]^
+[.blurb]
+=== On Swearing.
+
+In the first Covenant, the Jews were commanded to swear^
 footnote:[Some of the observations under this head
 are extracted from a work of Francis Howgill`'s,
 entitled, Oaths No Gospel Ordinance.]
-
-In the first Covenant, the Jews were commanded to swear by the Lord,
+by the Lord,
 and oaths were observed by them.
 But the doctrine of Christ who came to end that Covenant,
 and to establish the everlasting Covenant, was:
@@ -782,6 +796,7 @@ blameth greatly those who bring a book to swear upon;
 charging clerks that they in no wise constrain any body to swear,
 whether they think a man swear true or false, saying: "`It is a sin to swear well.`"
 
+[.blurb]
 === On the Extent of the Power of Kings and Magistrates in Matters of Conscience
 
 When the Lord brought Israel out of the land of Egypt,
@@ -876,7 +891,8 @@ and were commanded by the rulers to speak no more in that Name, disobeyed the co
 saying: "`Whether it be right in the sight of God,
 to hearken unto you more than unto God, judge ye.`"
 
-=== On Image worship, the Decrees of Coucils, and the Infallibility of the Church of Rome
+[.blurb]
+=== On Image worship, the Decrees of Councils, and the Infallibility of the Church of Rome
 
 Leo, emperor of Rome, commanded that all images and pictures of saints,
 should be taken out of the churches, for the avoiding of idolatry, in the year 726;
@@ -963,9 +979,8 @@ who has given to his flock an understanding, is come, in whom life, blessedness,
 and everlasting consolation reside;
 which He causeth to rest upon his people forevermore.
 
-=== Section IV.
-
-=== How All May Come out of the Apostacy and Become Members of the True Church, the Lamb`'s Wife, Which is in God.
+[.old-style]
+=== Section IV. / How All May Come out of the Apostacy and Become Members of the True Church, the Lamb`'s Wife, Which is in God.
 
 So far as God appeared, or manifested Himself to the sons of men in any age, by shadows,
 figures, or other outward appearances, the evil spirit, serpent`'s seed, and evil doer,
