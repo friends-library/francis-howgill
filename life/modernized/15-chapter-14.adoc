@@ -1,10 +1,10 @@
 == Chapter XIV.
 
+[.blurb]
 Extracts from Francis Howgill`'s Epistles
 
-=== Section I.
-
-An Epistle To Friends In Ireland.
+[.old-style]
+=== Section I. / An Epistle To Friends In Ireland.
 
 Unto all you who believed the report, and who received the testimony,
 and unto whom the word of the Lord came in power, to the turning of you, in any measure,
@@ -175,13 +175,14 @@ which we hold: known to you, and not to the world.
 
 From the house of the Sergeant at Arms in Dublin, the 24th. of the 12th. month 1655.
 
+[.signed-section-signature]
 Francis Howgill.
 
+[.signed-section-signature]
 Edward Burrough.
 
-=== Section II.
-
-An Epistle To Friends In London.
+[.old-style]
+=== Section II. / An Epistle To Friends In London.
 
 A servant of Jesus Christ, unto all chosen, obedient, and faithful friends and brethren,
 in and about London, wishes an increase of righteousness, faith, obedience, patience,
@@ -331,11 +332,11 @@ and ever, world without end.
 
 A servant to the least, for the Truth`'s sake.
 
+[.signed-section-signature]
 Francis Howgill
 
-=== Section III.
-
-A General Epistle to the Seed of God.
+[.old-style]
+=== Section III. / A General Epistle to the Seed of God.
 
 Dear friends everywhere, who have believed in our Lord Jesus Christ,
 and are called with a holy calling to the great salvation of God,
@@ -367,14 +368,14 @@ The Lord God preserve you all unto the end faithful.
 
 Your dear brother, for the testimony of Jesus,
 
+[.signed-section-signature]
 Francis Howgill
 
+[.signed-section-context-close]
 Appleby Jail, the 10th of 3rd. month, 1664.
 
-=== Section IV
-
-A Visitation of Love, Peace, and Goodwill to the Whole Flock of God;
-Now in This Their Day of Trial, and Hour of Temptation
+[.old-style]
+=== Section IV / A Visitation of Love, Peace, and Goodwill to the Whole Flock of God; Now in This Their Day of Trial, and Hour of Temptation
 
 Dear friends and brethren,
 who have been called to believe by the holy calling of the Lord,
@@ -544,15 +545,15 @@ and the Lamb, that lives forever, and forevermore, Amen.
 Your dear brother in the patience and sufferings of Christ,
 who abounds in perfect love to all the faithful flock of Christ everywhere,
 
+[.signed-section-signature]
 Francis Howgill
 
+[.signed-section-context-close]
 From Appleby Jail, the place of my rest, where my days and hours are pleasant unto me,
 the 4th. of the 5th. month, 1664.
 
-=== Section V.
-
-A General Epistle to All Who Have Believed in the Light of the Lord Jesus,
-and Are Called of God to Follow the Lamb through Great Tribulation.
+[.old-style]
+=== Section V. / A General Epistle to All Who Have Believed in the Light of the Lord Jesus, and Are Called of God to Follow the Lamb through Great Tribulation.
 
 Dear friends, who are called out of the world and the vanities of it,
 to serve the Living God in newness of life,
@@ -778,4 +779,5 @@ Amen.
 
 The Lord`'s servant, and yours in all true, unfeigned, pure love.
 
+[.signed-section-signature]
 Francis Howgill
