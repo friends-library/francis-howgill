@@ -1,4 +1,4 @@
 /* prevent awkward page break */
-.first-chapter h2 {
-  margin-top: 140pt;
+.trim--s .chapter-2 {
+  margin-top: 1.6in;
 }
