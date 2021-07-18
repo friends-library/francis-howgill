@@ -148,7 +148,7 @@ and their meetings are dangerous.
 
 [.discourse-part]
 _Philip Musgrave_ then stood up again, seconded by _Justice Flemming,_ so called,
-and produced a paper, in great capital letters, which be gave to the judge; and told him:
+and produced a paper, in great capital letters, which he gave to the judge; and told him:
 "`That it happened some Quakers were sent to prison, and one of them died at Lancaster;
 and they carried his corpse through the country, and set that paper upon the coffin:
 '`This is the body of such a one, who was persecuted by Daniel Flemming till death.`'`"
@@ -228,7 +228,7 @@ in order that he might leave them the more without excuse;
 but all he could do would not prevail with them,
 for they were determined to do their utmost against him.
 
-At the assizes, holden at Appleby the 22nd and 23rd of 6th month, 1661.
+At the assizes, holden at Appleby the 22nd and 23rd of 6th month, 1664.
 Francis Howgill being called to the bar, the judge spoke moderately, and said:
 "`here is an indictment against you for refusing to take the oath of allegiance:
 so you must plead to it either guilty or not guilty.`"
@@ -413,11 +413,14 @@ _Fourth,_ Even some of your principal pillars of the Church of England, as Bisho
 sometime Primate of Ireland, said in his works,
 the Waldenses did deny all swearing in their age,
 from the command of Christ and the apostle James, and it was a sufficient ground;
-and Doctor Gauden, late Bishop of Exeter, in a book of his.
+and Doctor Gauden, late Bishop of Exeter, in a book of his
 I lately read, cited very many ancient fathers,
 to show that for the first three hundred years Christians did not swear;
-so that it is no new doctrine; to which the court seemed to give a little ear,
-and talked one to another, and Francis stood silent.
+so that it is no new doctrine.
+
+[.offset]
++++[+++To this the court seemed to give a little ear,
+and talked one to another, and Francis stood silent.]
 
 [.discourse-part]
 _Then the judge said:_--Sure you mistake?
@@ -480,7 +483,7 @@ and you think we deal severely with you; but if you would be subject we should n
 
 [.discourse-part]
 _Francis Howgill._--I do so judge indeed,
-that you deal severely with us for obedience to the commands Of Christ; I pray thee,
+that you deal severely with us for obedience to the commands of Christ; I pray thee,
 canst thou show me how any of those people for whom the act was made,
 have been proceeded against by the statute?
 though I envy no man`'s liberty.
